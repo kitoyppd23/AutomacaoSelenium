@@ -30,9 +30,9 @@ Vá para a suite de teste  [Todos os testes](./src/main/java/SuiteTeste.java/).
 ___
 
 -Backlog especifico   
--[Ajax](./AutomacaoSelenium/src/main/java/TesteAjax.java).
--[Alert](./AutomacaoSelenium/src/main/java/TesteAlert.java)
--[Cadastro](./AutomacaoSelenium/src/main/java/TesteCadastro.java)
--[Frames](./AutomacaoSelenium/src/main/java/TesteFrames.java)
--[Google](./AutomacaoSelenium/src/main/java/TesteGoogle.java)
--[Janela](./AutomacaoSelenium/src/main/java/TesteJanelas.java)
+-[Ajax](src/main/java/TesteAjax.java).
+-[Alert](src/main/java/TesteAlert.java)
+-[Cadastro](src/main/java/TesteCadastro.java)
+-[Frames](src/main/java/TesteFrames.java)
+-[Google](src/main/java/TesteGoogle.java)
+-[Janela](src/main/java/TesteJanelas.java)
