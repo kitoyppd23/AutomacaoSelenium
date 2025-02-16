@@ -10,7 +10,7 @@ Durante os testes automatizados com Selenium, Iremos acompanhar:
 
 - Um projeto de testes automatizados em JAVA para aplicações Web do ZERO com Selenium WebDriver.
 - FrameWork utilizada -  [`JetBrains`](https://www.jetbrains.com/pt-br/idea/) 
-- Separação de componentes PageObjects - -[Verificar pastas de comandos customizados](./AutomacaoSelenium/scr/main/resources/componentes.html) 
+- Separação de componentes PageObjects - -[Verificar pastas de comandos customizados](./AutomacaoSeleniumsrc/main/resources/componentes.html) 
 - Interagir com elementos mais complexos, como: Alerts, Frames e PopUps.
 - Organizar os códigos tornando-os mais legíveis, reusáveis e fáceis de manter.
 - Execução de testes em paralelo.
